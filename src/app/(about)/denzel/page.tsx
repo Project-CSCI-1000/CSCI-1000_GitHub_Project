@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
-import denzel_portrait from "../../../public/denzel_protrait.jpg";
+import denzel_portrait from "../../../../public/denzel_protrait.jpg";
 
 const AboutDenzel = () => {
   return (

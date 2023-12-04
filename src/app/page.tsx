@@ -8,3 +8,8 @@ export default function Home() {
     </main>
   );
 }
+
+/*
+Link to our deployed site:
+https://tranquil-elf-aa1930.netlify.app/
+*/
